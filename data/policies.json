@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shipping-standard",
+    "title": "Standard UAE shipping",
+    "text": "DemoCart ships within the UAE only. Standard shipping takes 2 to 4 business days after dispatch. Delivery costs AED 15 for baskets below AED 150. Shipping is free for baskets of AED 150 or more."
+  },
+  {
+    "id": "shipping-express",
+    "title": "Express shipping",
+    "text": "Express shipping is available in selected UAE areas for AED 30 and normally arrives on the next business day after dispatch."
+  },
+  {
+    "id": "returns-standard",
+    "title": "Standard returns",
+    "text": "Most unused items may be returned within 14 days of delivery with original packaging. Personalised items and opened hygiene-sensitive products are excluded."
+  },
+  {
+    "id": "returns-fees",
+    "title": "Return collection fees",
+    "text": "Return collection is free for defective or incorrect items. A AED 10 collection fee applies to change-of-mind returns."
+  }
+]

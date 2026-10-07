@@ -1,0 +1,288 @@
+{"id": "validation-RETURN_ITEM-000", "text": "Could someone help? How do I send only the running shoes back from DC900160?", "label": "RETURN_ITEM"}
+{"id": "validation-CANCEL_ITEM-000", "text": "Regarding a recent purchase, Can just the jacket be dropped from DC900098 without cancelling everything else?", "label": "CANCEL_ITEM"}
+{"id": "validation-RETURN_ORDER-000", "text": "Quick question: I am returning the whole basket from DC900130; nothing will be kept.", "label": "RETURN_ORDER"}
+{"id": "validation-PAYMENT_ISSUE-000", "text": "Regarding a recent purchase, Why am I seeing a billing error every time I try to pay?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-SHIPPING_POLICY-000", "text": "I need some help. Which parts of the UAE are covered by your shipping service? Thanks.", "label": "SHIPPING_POLICY"}
+{"id": "validation-SHIPPING_POLICY-001", "text": "Quick question: Do you ship to Ajman, and how long does delivery normally take there? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-001", "text": "Regarding a recent purchase, I tried paying for DC900109, but the transaction keeps getting declined. Thanks.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-000", "text": "I noticed DC900144 is going to my old apartment. Can I update where it will be delivered?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_STATUS-000", "text": "I'm waiting on an existing refund for DC900172. What's its current status? Please.", "label": "REFUND_STATUS"}
+{"id": "validation-SHIPPING_POLICY-002", "text": "Quick question: Do you deliver on weekends, or only on working days?", "label": "SHIPPING_POLICY"}
+{"id": "validation-CANCEL_ORDER-000", "text": "I need some help. I placed DC900180 by accident and need the whole purchase stopped before it leaves.", "label": "CANCEL_ORDER"}
+{"id": "validation-RETURN_POLICY-000", "text": "Could someone help? Which types of products are excluded from your return rules?", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ITEM-001", "text": "Hi, The other items are fine. I only need to return the blender. Please.", "label": "RETURN_ITEM"}
+{"id": "validation-RETURN_ITEM-002", "text": "I need some help. I need a return label for a single product, the desk lamp, not the full order. Thanks.", "label": "RETURN_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-002", "text": "I tried paying for DC900061, but the transaction keeps getting declined. Can you help with that?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-PAYMENT_ISSUE-003", "text": "I need some help. I cannot complete checkout because the payment method is being rejected. I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-EXCHANGE_ITEM-000", "text": "Regarding a recent purchase, Is it possible to send back the watch strap and receive the same product in large? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-CANCEL_ORDER-001", "text": "Could someone help? I don't want to receive any of the products in DC900044; stop the order. Please.", "label": "CANCEL_ORDER"}
+{"id": "validation-EXCHANGE_ITEM-001", "text": "The headphones arrived in the wrong size. Can I swap it for large?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_STATUS-001", "text": "The refund case for DC900106 is open. Has it been completed yet? Please.", "label": "REFUND_STATUS"}
+{"id": "validation-REFUND_STATUS-002", "text": "Hi, I got a message saying the refund was processed. Why is it missing from my bank account? I need to sort this out today.", "label": "REFUND_STATUS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-001", "text": "The order is correct, but its destination is not. Please change the address for DC900167. Thanks.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-RETURN_POLICY-001", "text": "Regarding a recent purchase, Are clearance products covered by the normal return policy? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ITEM-003", "text": "Regarding a recent purchase, Please create a return for one line from DC900093: backpack. Can you help with that?", "label": "RETURN_ITEM"}
+{"id": "validation-REFUND_STATUS-003", "text": "Hi, Where is the money from my approved refund? Can you help with that?", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-002", "text": "I don't want to receive any of the products in DC900200; stop the order. What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-SHIPPING_POLICY-003", "text": "Regarding a recent purchase, How many business days does standard shipping usually take? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-CANCEL_ITEM-001", "text": "I need some help. Can just the jacket be dropped from DC900158 without cancelling everything else? What are my options?", "label": "CANCEL_ITEM"}
+{"id": "validation-RETURN_ORDER-001", "text": "I need some help. I want to send back every item that arrived in DC900097. Can you help with that?", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ORDER-002", "text": "Could someone help? All products in DC900116 are being returned together. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-SHIPPING_POLICY-004", "text": "I need some help. Before I buy, I want to know your delivery charges and available speeds. I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-REFUND_REQUEST-000", "text": "I need some help. Please begin the process of refunding the wireless mouse. What are my options?", "label": "REFUND_REQUEST"}
+{"id": "validation-REFUND_STATUS-004", "text": "I need some help. I received confirmation that a refund was issued, but the money has not arrived. Thanks.", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-003", "text": "Regarding a recent purchase, I submitted DC900154 unintentionally. Can all items be cancelled? What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-RETURN_ORDER-003", "text": "Regarding a recent purchase, I am returning the whole basket from DC900010; nothing will be kept. What are my options?", "label": "RETURN_ORDER"}
+{"id": "validation-REFUND_REQUEST-001", "text": "Could someone help? How can I request money back for DC900022?", "label": "REFUND_REQUEST"}
+{"id": "validation-EXCHANGE_ITEM-002", "text": "Could someone help? The headphones arrived in the wrong size. Can I swap it for EU 42? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_ORDER-004", "text": "I need some help. Please create a return for every item under DC900186.", "label": "RETURN_ORDER"}
+{"id": "validation-CANCEL_ITEM-002", "text": "Hi, I still need the rest of order DC900012; please take the headphones off it. Please.", "label": "CANCEL_ITEM"}
+{"id": "validation-SHIPPING_POLICY-005", "text": "Regarding a recent purchase, Which parts of the UAE are covered by your shipping service? I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-SHIPPING_POLICY-006", "text": "Regarding a recent purchase, What order value qualifies for free delivery? What are my options?", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_POLICY-002", "text": "Regarding a recent purchase, What are the general conditions for returning a purchase? Please.", "label": "RETURN_POLICY"}
+{"id": "validation-EXCHANGE_ITEM-003", "text": "Hi, Please help me exchange the backpack from DC900201 for a different option. Can you help with that?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_STATUS-005", "text": "Could someone help? The refund has already been accepted. Has the payment been sent back yet? Thanks.", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ITEM-003", "text": "Could someone help? I don't need the watch strap anymore, but I do want the remaining products.", "label": "CANCEL_ITEM"}
+{"id": "validation-RETURN_ORDER-005", "text": "I need some help. I am returning the whole basket from DC900142; nothing will be kept. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-REFUND_REQUEST-002", "text": "Hi, I want a refund issued for this purchase, and I'm contacting you for the first time about it. Can you help with that?", "label": "REFUND_REQUEST"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-002", "text": "Quick question: The shipping details on DC900085 are wrong; I need the parcel sent to a different address. I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_REQUEST-003", "text": "Could someone help? Please begin the process of refunding the wireless mouse. Please.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_POLICY-003", "text": "Quick question: Are discounted products eligible for return, or are sale items final? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-CANCEL_ORDER-004", "text": "I need some help. Can the entire transaction DC900103 be cancelled before fulfilment? Can you help with that?", "label": "CANCEL_ORDER"}
+{"id": "validation-REFUND_REQUEST-004", "text": "Regarding a recent purchase, I haven't been approved for anything yet; I want to request a refund now. Thanks.", "label": "REFUND_REQUEST"}
+{"id": "validation-PAYMENT_ISSUE-004", "text": "Hi, Checkout won't accept my card even though it works elsewhere. Please.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CANCEL_ITEM-004", "text": "I need some help. I still need the rest of order DC900036; please take the headphones off it.", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-000", "text": "Has DC900061 left the warehouse yet? Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-EXCHANGE_ITEM-004", "text": "Regarding a recent purchase, The headphones arrived in the wrong size. Can I swap it for EU 41? Please.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_ORDER-006", "text": "Quick question: All products in DC900008 are being returned together. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-REFUND_STATUS-006", "text": "Could someone help? I got a message saying the refund was processed. Why is it missing from my bank account? Can you help with that?", "label": "REFUND_STATUS"}
+{"id": "validation-EXCHANGE_ITEM-005", "text": "Could someone help? The wireless mouse is fine, but I ordered the wrong size. Can it be swapped? Please.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_REQUEST-005", "text": "I need some help. Start a refund for the water bottle; this is a new request. Thanks.", "label": "REFUND_REQUEST"}
+{"id": "validation-REFUND_REQUEST-006", "text": "Quick question: Can you open a new refund case for DC900174? What are my options?", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_ORDER-007", "text": "Could someone help? Everything in DC900060 has to go back. How do I return the complete purchase? What are my options?", "label": "RETURN_ORDER"}
+{"id": "validation-REFUND_STATUS-007", "text": "Regarding a recent purchase, The refund case for DC900010 is open. Has it been completed yet? What are my options?", "label": "REFUND_STATUS"}
+{"id": "validation-TRACK_ORDER-001", "text": "I need some help. I received a dispatch message for DC900153; when should it reach me? I need to sort this out today.", "label": "TRACK_ORDER"}
+{"id": "validation-PAYMENT_ISSUE-005", "text": "Quick question: My card was charged, then the site reported an error. Did the order go through? I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-REFUND_REQUEST-007", "text": "Can you open a new refund case for DC900006?", "label": "REFUND_REQUEST"}
+{"id": "validation-REFUND_STATUS-008", "text": "The refund case for DC900034 is open. Has it been completed yet? Please.", "label": "REFUND_STATUS"}
+{"id": "validation-RETURN_ORDER-008", "text": "Regarding a recent purchase, Everything in DC900192 has to go back. How do I return the complete purchase? Please.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ITEM-004", "text": "Quick question: I want to keep most of DC900008 and send the wireless mouse back. Please.", "label": "RETURN_ITEM"}
+{"id": "validation-CANCEL_ITEM-005", "text": "I need some help. My purchase has several products. Cancel the water bottle only, please. Thanks.", "label": "CANCEL_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-006", "text": "I need some help. Please help me exchange the backpack from DC900153 for a different option. I need to sort this out today.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-003", "text": "My house number is incorrect on DC900172. Please amend the delivery location. Please.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-PAYMENT_ISSUE-006", "text": "I need some help. Apple Pay completes on my phone but your checkout says the payment failed. Please.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-SHIPPING_POLICY-007", "text": "Is there an express delivery option for online orders? I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-CANCEL_ORDER-005", "text": "Hi, Can you stop the complete purchase DC900062 from going out?", "label": "CANCEL_ORDER"}
+{"id": "validation-TRACK_ORDER-002", "text": "Has DC900205 left the warehouse yet? Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-004", "text": "I need some help. I noticed DC900036 is going to my old apartment. Can I update where it will be delivered?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-SHIPPING_POLICY-008", "text": "Quick question: How much do you charge for standard delivery? I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-EXCHANGE_ITEM-007", "text": "Could someone help? The headphones arrived in the wrong size. Can I swap it for small? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_STATUS-009", "text": "Could someone help? Can you trace the refund that was started earlier for DC900210? What are my options?", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-006", "text": "Quick question: Please void DC900174 in full while it is still waiting to ship. What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ITEM-006", "text": "I need some help. I changed my mind about one product in DC900197: the desk lamp. The other goods are fine. Thanks.", "label": "CANCEL_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-008", "text": "I need some help. I like the product but want the coffee maker in blue instead. How do I exchange it? Can you help with that?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-007", "text": "I need some help. My bank shows two charges for one purchase. Can you check the duplicate payment? I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-TRACK_ORDER-003", "text": "Regarding a recent purchase, My package seems delayed. Can you check its delivery status? What are my options?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_POLICY-004", "text": "Could someone help? Do I need the original packaging to qualify for a return?", "label": "RETURN_POLICY"}
+{"id": "validation-TRACK_ORDER-004", "text": "Where has my shipment reached so far?", "label": "TRACK_ORDER"}
+{"id": "validation-TRACK_ORDER-005", "text": "Regarding a recent purchase, The tracking page hasn't changed for two days. What's happening with my parcel?", "label": "TRACK_ORDER"}
+{"id": "validation-EXCHANGE_ITEM-009", "text": "I need some help. The wireless mouse is fine, but I ordered the wrong size. Can it be swapped? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_POLICY-005", "text": "Regarding a recent purchase, Can an item be returned after it has been tried or used? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-CANCEL_ITEM-007", "text": "Regarding a recent purchase, Could you revise DC900104 so it contains everything except the wireless mouse?", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-006", "text": "I need some help. I need an ETA for the parcel linked to DC900197. Thanks.", "label": "TRACK_ORDER"}
+{"id": "validation-REFUND_STATUS-010", "text": "Could someone help? Can you trace the refund that was started earlier for DC900066? What are my options?", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-007", "text": "Quick question: I've changed my mind about the whole basket in DC900185. Can you help with that?", "label": "CANCEL_ORDER"}
+{"id": "validation-TRACK_ORDER-007", "text": "Could someone help? My package seems delayed. Can you check its delivery status?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_POLICY-006", "text": "Could someone help? Do returns have to be unopened and in the original box? Please.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ORDER-009", "text": "Hi, Everything in DC900084 has to go back. How do I return the complete purchase? Please.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_POLICY-007", "text": "Quick question: Which types of products are excluded from your return rules?", "label": "RETURN_POLICY"}
+{"id": "validation-REFUND_REQUEST-008", "text": "Can you open a new refund case for DC900150?", "label": "REFUND_REQUEST"}
+{"id": "validation-SHIPPING_POLICY-009", "text": "I need some help. Are there different delivery fees for different Emirates? What are my options?", "label": "SHIPPING_POLICY"}
+{"id": "validation-SHIPPING_POLICY-010", "text": "I need some help. How many business days does standard shipping usually take?", "label": "SHIPPING_POLICY"}
+{"id": "validation-REFUND_STATUS-011", "text": "Hi, I already requested a refund for DC900145; can you tell me where it is in the process? Thanks.", "label": "REFUND_STATUS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-005", "text": "Could someone help? I moved after placing DC900182. How can I redirect it to my new home? Please.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-SHIPPING_POLICY-011", "text": "Quick question: Are there different delivery fees for different Emirates? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_POLICY-008", "text": "Regarding a recent purchase, How many days after delivery do customers have to send something back? Please.", "label": "RETURN_POLICY"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-006", "text": "Could someone help? The order is correct, but its destination is not. Please change the address for DC900155. Can you help with that?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-TRACK_ORDER-008", "text": "My courier hasn't arrived. Is the package out for delivery? Please.", "label": "TRACK_ORDER"}
+{"id": "validation-REFUND_REQUEST-009", "text": "Hi, I haven't opened a refund yet, but I want my money back for the headphones. Please.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_ITEM-005", "text": "Could someone help? Only the watch strap is being returned; I am keeping the remaining products.", "label": "RETURN_ITEM"}
+{"id": "validation-CANCEL_ITEM-008", "text": "Regarding a recent purchase, Could you revise DC900032 so it contains everything except the wireless mouse?", "label": "CANCEL_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-008", "text": "I need some help. My card was charged, then the site reported an error. Did the order go through? Can you help with that?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CANCEL_ORDER-008", "text": "Quick question: Cancel the complete purchase for DC900191; there is nothing I want to keep. Can you help with that?", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ITEM-009", "text": "I need some help. Could you revise DC900092 so it contains everything except the wireless mouse? What are my options?", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ITEM-010", "text": "Quick question: One item has to go from my basket after checkout: backpack. Keep the balance of the order. Thanks.", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ITEM-011", "text": "I only want one product cancelled—the tablet cover; don't stop the whole order. Can you help with that?", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-009", "text": "Could someone help? Please look up the latest tracking update for DC900155. Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_POLICY-009", "text": "Regarding a recent purchase, Does your return period start on the order date or the delivery date? Thanks.", "label": "RETURN_POLICY"}
+{"id": "validation-TRACK_ORDER-010", "text": "Regarding a recent purchase, The expected delivery date passed. Please check the progress of DC900043. Thanks.", "label": "TRACK_ORDER"}
+{"id": "validation-TRACK_ORDER-011", "text": "Hi, My delivery was due yesterday and still hasn't arrived. Can you see where it is? Please.", "label": "TRACK_ORDER"}
+{"id": "validation-REFUND_STATUS-012", "text": "I need some help. I got a message saying the refund was processed. Why is it missing from my bank account? Thanks.", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-009", "text": "Regarding a recent purchase, Please cancel everything under DC900181; I don't want any part of it shipped. Thanks.", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ITEM-012", "text": "Quick question: My purchase has several products. Cancel the water bottle only, please. Can you help with that?", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ORDER-010", "text": "Regarding a recent purchase, I submitted DC900082 unintentionally. Can all items be cancelled? What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-PAYMENT_ISSUE-009", "text": "Quick question: Why am I seeing a billing error every time I try to pay? Please.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CANCEL_ITEM-013", "text": "Hi, I changed my mind about one product in DC900173: the desk lamp. The other goods are fine. I need to sort this out today.", "label": "CANCEL_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-007", "text": "Regarding a recent purchase, I need to reroute DC900043 to a new delivery address. Thanks.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-008", "text": "The order is correct, but its destination is not. Please change the address for DC900095. Thanks.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-RETURN_POLICY-010", "text": "Quick question: What is your standard return window for online purchases? Thanks.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_POLICY-011", "text": "Could someone help? What are the general conditions for returning a purchase? What are my options?", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ITEM-006", "text": "I need some help. I want to keep most of DC900164 and send the wireless mouse back. What are my options?", "label": "RETURN_ITEM"}
+{"id": "validation-RETURN_ITEM-007", "text": "Regarding a recent purchase, How do I send only the running shoes back from DC900076? What are my options?", "label": "RETURN_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-010", "text": "Regarding a recent purchase, My bank shows two charges for one purchase. Can you check the duplicate payment? Can you help with that?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-REFUND_REQUEST-010", "text": "Regarding a recent purchase, I've decided I want the purchase refunded. Can you initiate it? Can you help with that?", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_ORDER-010", "text": "Everything in DC900000 has to go back. How do I return the complete purchase?", "label": "RETURN_ORDER"}
+{"id": "validation-SHIPPING_POLICY-012", "text": "Hi, Do you deliver on weekends, or only on working days? What are my options?", "label": "SHIPPING_POLICY"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-009", "text": "I need some help. Can I edit the address for an order that has already been placed? Mine is DC900081. I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-EXCHANGE_ITEM-010", "text": "Regarding a recent purchase, I'd prefer to swap the desk lamp for another size. What is the exchange process? I need to sort this out today.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_ITEM-008", "text": "The other items are fine. I only need to return the blender.", "label": "RETURN_ITEM"}
+{"id": "validation-CANCEL_ITEM-014", "text": "Regarding a recent purchase, Please keep the shipment active and remove only the running shoes. What are my options?", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ITEM-015", "text": "Quick question: Could you revise DC900008 so it contains everything except the wireless mouse? Please.", "label": "CANCEL_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-011", "text": "Quick question: Please help me exchange the backpack from DC900213 for a different option. Thanks.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-012", "text": "Can the blender from DC900006 be exchanged for a replacement unit?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_ITEM-009", "text": "I need some help. How do I send only the running shoes back from DC900136? Please.", "label": "RETURN_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-010", "text": "Regarding a recent purchase, The shipping details on DC900037 are wrong; I need the parcel sent to a different address. Thanks.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_STATUS-013", "text": "I already requested a refund for DC900205; can you tell me where it is in the process? Can you help with that?", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-011", "text": "Quick question: I placed DC900168 by accident and need the whole purchase stopped before it leaves. What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-REFUND_REQUEST-011", "text": "Could someone help? Can you open a new refund case for DC900210? What are my options?", "label": "REFUND_REQUEST"}
+{"id": "validation-PAYMENT_ISSUE-011", "text": "Regarding a recent purchase, I see the same purchase charged twice on my statement. What are my options?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CANCEL_ORDER-012", "text": "I need some help. I don't want to receive any of the products in DC900020; stop the order. What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ITEM-016", "text": "I changed my mind about one product in DC900161: the desk lamp. The other goods are fine. Thanks.", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-012", "text": "Hi, The expected delivery date passed. Please check the progress of DC900007. Thanks.", "label": "TRACK_ORDER"}
+{"id": "validation-SHIPPING_POLICY-013", "text": "Do you deliver on weekends, or only on working days? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_ITEM-010", "text": "Hi, I want to keep most of DC900212 and send the wireless mouse back.", "label": "RETURN_ITEM"}
+{"id": "validation-CANCEL_ORDER-013", "text": "I need some help. Can you stop the complete purchase DC900014 from going out? What are my options?", "label": "CANCEL_ORDER"}
+{"id": "validation-REFUND_REQUEST-012", "text": "How can I request money back for DC900178? Please.", "label": "REFUND_REQUEST"}
+{"id": "validation-SHIPPING_POLICY-014", "text": "I need some help. Is there an express delivery option for online orders? I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-012", "text": "Could someone help? The money left my account but I don't have an order number. Can you help with that?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-EXCHANGE_ITEM-013", "text": "Regarding a recent purchase, I need a like-for-like replacement for the water bottle rather than money back. I need to sort this out today.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_REQUEST-013", "text": "I want a refund issued for this purchase, and I'm contacting you for the first time about it. I need to sort this out today.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_POLICY-012", "text": "Hi, Is there a fee when I return something because I changed my mind? Can you help with that?", "label": "RETURN_POLICY"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-011", "text": "Could someone help? I typed the delivery location incorrectly for DC900094. What can I do to fix it?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_REQUEST-014", "text": "I need some help. Please start a refund for DC900097; no refund request exists yet. Can you help with that?", "label": "REFUND_REQUEST"}
+{"id": "validation-CANCEL_ORDER-014", "text": "I need some help. I've changed my mind about the whole basket in DC900125. Thanks.", "label": "CANCEL_ORDER"}
+{"id": "validation-RETURN_ITEM-011", "text": "Hi, Only the watch strap is being returned; I am keeping the remaining products. What are my options?", "label": "RETURN_ITEM"}
+{"id": "validation-RETURN_ORDER-011", "text": "Hi, Please help me send back the complete purchase. I need to sort this out today.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ORDER-012", "text": "Could someone help? The full delivery for DC900027 needs to be returned. Thanks.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ORDER-013", "text": "I need some help. I don't want any of the products I received. Please set up a return for all of them. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ITEM-012", "text": "How do I send only the running shoes back from DC900028? Please.", "label": "RETURN_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-012", "text": "Could someone help? The shipping details on DC900193 are wrong; I need the parcel sent to a different address. I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-TRACK_ORDER-013", "text": "I need some help. I received a dispatch message for DC900009; when should it reach me? I need to sort this out today.", "label": "TRACK_ORDER"}
+{"id": "validation-EXCHANGE_ITEM-014", "text": "Could someone help? The headphones arrived in the wrong size. Can I swap it for large? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_REQUEST-015", "text": "Could someone help? I've decided I want the purchase refunded. Can you initiate it? Thanks.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_ITEM-013", "text": "Regarding a recent purchase, Please create a return for one line from DC900021: backpack. Can you help with that?", "label": "RETURN_ITEM"}
+{"id": "validation-RETURN_ORDER-014", "text": "Regarding a recent purchase, Please create a return for every item under DC900054. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ITEM-014", "text": "I need some help. I bought several things in DC900036, but only the headphones needs to go back.", "label": "RETURN_ITEM"}
+{"id": "validation-REFUND_STATUS-014", "text": "Regarding a recent purchase, I'm waiting on an existing refund for DC900004. What's its current status? What are my options?", "label": "REFUND_STATUS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-013", "text": "Hi, I entered my previous address at checkout for DC900173; can it be changed now? I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_STATUS-015", "text": "I need some help. I already requested a refund for DC900025; can you tell me where it is in the process? Can you help with that?", "label": "REFUND_STATUS"}
+{"id": "validation-SHIPPING_POLICY-015", "text": "How much do you charge for standard delivery? Can you help with that?", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_ITEM-015", "text": "Quick question: Please create a return for one line from DC900069: backpack. Thanks.", "label": "RETURN_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-013", "text": "The payment screen froze after I confirmed, and I'm not sure whether I was charged. What are my options?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-RETURN_ITEM-016", "text": "I need some help. I bought several things in DC900108, but only the headphones needs to go back.", "label": "RETURN_ITEM"}
+{"id": "validation-REFUND_REQUEST-016", "text": "Could someone help? No refund has been submitted so far. Please create one for DC900016.", "label": "REFUND_REQUEST"}
+{"id": "validation-SHIPPING_POLICY-016", "text": "I need some help. What order value qualifies for free delivery? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_ORDER-015", "text": "Quick question: The full delivery for DC900135 needs to be returned. Thanks.", "label": "RETURN_ORDER"}
+{"id": "validation-SHIPPING_POLICY-017", "text": "I need some help. How much do you charge for standard delivery? Can you help with that?", "label": "SHIPPING_POLICY"}
+{"id": "validation-CANCEL_ITEM-017", "text": "Regarding a recent purchase, The order can continue, but I no longer want the coffee maker included. Thanks.", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ORDER-015", "text": "Quick question: I don't want to receive any of the products in DC900008; stop the order. Please.", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ORDER-016", "text": "I need some help. Cancel the complete purchase for DC900203; there is nothing I want to keep. Thanks.", "label": "CANCEL_ORDER"}
+{"id": "validation-REFUND_REQUEST-017", "text": "Quick question: Please start a refund for DC900013; no refund request exists yet. I need to sort this out today.", "label": "REFUND_REQUEST"}
+{"id": "validation-CANCEL_ITEM-018", "text": "Could someone help? I changed my mind about one product in DC900077: the desk lamp. The other goods are fine. Can you help with that?", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-014", "text": "Quick question: Can you see whether my parcel is still at the warehouse or with the courier? Please.", "label": "TRACK_ORDER"}
+{"id": "validation-REFUND_STATUS-016", "text": "Hi, The refund has already been accepted. Has the payment been sent back yet? Can you help with that?", "label": "REFUND_STATUS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-014", "text": "Quick question: The parcel for DC900102 needs to go somewhere else. Can you update the destination? What are my options?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_STATUS-017", "text": "Can you trace the refund that was started earlier for DC900006?", "label": "REFUND_STATUS"}
+{"id": "validation-REFUND_REQUEST-018", "text": "Regarding a recent purchase, I haven't opened a refund yet, but I want my money back for the headphones. Please.", "label": "REFUND_REQUEST"}
+{"id": "validation-PAYMENT_ISSUE-014", "text": "Hi, The payment screen froze after I confirmed, and I'm not sure whether I was charged.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-SHIPPING_POLICY-018", "text": "Hi, Are there different delivery fees for different Emirates?", "label": "SHIPPING_POLICY"}
+{"id": "validation-EXCHANGE_ITEM-015", "text": "Quick question: I received the right product but the wrong variation. Can you replace the running shoes with white?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-015", "text": "Regarding a recent purchase, I tried paying for DC900181, but the transaction keeps getting declined. Thanks.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-RETURN_ORDER-016", "text": "I need some help. I need a label for the complete shipment, not a single product. Can you help with that?", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ITEM-017", "text": "Regarding a recent purchase, Please create a return for one line from DC900165: backpack. Can you help with that?", "label": "RETURN_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-015", "text": "Regarding a recent purchase, I entered my previous address at checkout for DC900209; can it be changed now? I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-REFUND_REQUEST-019", "text": "Hi, I need to ask for my money back on the desk lamp. I need to sort this out today.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_POLICY-013", "text": "Hi, Do I need the original packaging to qualify for a return? What are my options?", "label": "RETURN_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-016", "text": "Quick question: I tried paying for DC900157, but the transaction keeps getting declined. I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-016", "text": "I need some help. I typed the delivery location incorrectly for DC900070. What can I do to fix it? Please.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-RETURN_ORDER-017", "text": "Hi, Please create a return for every item under DC900162. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_POLICY-014", "text": "I need some help. Is there a fee when I return something because I changed my mind? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ORDER-018", "text": "I need some help. Everything in DC900108 has to go back. How do I return the complete purchase?", "label": "RETURN_ORDER"}
+{"id": "validation-PAYMENT_ISSUE-017", "text": "Quick question: The checkout page says payment pending and never finishes. What are my options?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-TRACK_ORDER-015", "text": "Quick question: Has DC900085 left the warehouse yet? I need to sort this out today.", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_POLICY-015", "text": "Hi, Can an item be returned after it has been tried or used? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ITEM-018", "text": "I need a return label for a single product, the desk lamp, not the full order. Thanks.", "label": "RETURN_ITEM"}
+{"id": "validation-RETURN_POLICY-016", "text": "Are clearance products covered by the normal return policy? Thanks.", "label": "RETURN_POLICY"}
+{"id": "validation-CANCEL_ORDER-017", "text": "Quick question: Please cancel everything under DC900157; I don't want any part of it shipped. I need to sort this out today.", "label": "CANCEL_ORDER"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-017", "text": "I need some help. I typed the delivery location incorrectly for DC900142. What can I do to fix it? Please.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-CANCEL_ORDER-018", "text": "Quick question: Can the entire transaction DC900163 be cancelled before fulfilment? I need to sort this out today.", "label": "CANCEL_ORDER"}
+{"id": "validation-CANCEL_ITEM-019", "text": "Hi, I changed my mind about one product in DC900101: the desk lamp. The other goods are fine. I need to sort this out today.", "label": "CANCEL_ITEM"}
+{"id": "validation-REFUND_STATUS-018", "text": "I need some help. The refund case for DC900070 is open. Has it been completed yet? Please.", "label": "REFUND_STATUS"}
+{"id": "validation-REFUND_STATUS-019", "text": "Quick question: The refund case for DC900058 is open. Has it been completed yet?", "label": "REFUND_STATUS"}
+{"id": "validation-TRACK_ORDER-016", "text": "Regarding a recent purchase, I received a dispatch message for DC900093; when should it reach me? Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-CANCEL_ITEM-020", "text": "Quick question: Can just the jacket be dropped from DC900002 without cancelling everything else? Please.", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-017", "text": "Could someone help? I need an ETA for the parcel linked to DC900149. Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-CANCEL_ORDER-019", "text": "Nothing from DC900100 should be dispatched. Please cancel it all. Please.", "label": "CANCEL_ORDER"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-018", "text": "I need some help. Please replace the shipping address attached to DC900164; the current one is not valid. What are my options?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-019", "text": "I noticed DC900072 is going to my old apartment. Can I update where it will be delivered?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-CANCEL_ORDER-020", "text": "Please void DC900150 in full while it is still waiting to ship.", "label": "CANCEL_ORDER"}
+{"id": "validation-EXCHANGE_ITEM-016", "text": "Quick question: Is it possible to send back the watch strap and receive the same product in small?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-RETURN_POLICY-017", "text": "Could someone help? How many days after delivery do customers have to send something back? What are my options?", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_ORDER-019", "text": "I need some help. Please help me send back the complete purchase. Thanks.", "label": "RETURN_ORDER"}
+{"id": "validation-TRACK_ORDER-018", "text": "Quick question: I received a dispatch message for DC900213; when should it reach me? Thanks.", "label": "TRACK_ORDER"}
+{"id": "validation-PAYMENT_ISSUE-018", "text": "Quick question: Checkout won't accept my card even though it works elsewhere. What are my options?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-PAYMENT_ISSUE-019", "text": "Could someone help? The checkout page says payment pending and never finishes. What are my options?", "label": "PAYMENT_ISSUE"}
+{"id": "validation-RETURN_ORDER-020", "text": "I need some help. The full delivery for DC900147 needs to be returned. I need to sort this out today.", "label": "RETURN_ORDER"}
+{"id": "validation-REFUND_STATUS-020", "text": "Hi, The refund case for DC900046 is open. Has it been completed yet? What are my options?", "label": "REFUND_STATUS"}
+{"id": "validation-REFUND_STATUS-021", "text": "Could someone help? You processed my refund, but I still can't see the credit on my card. Please.", "label": "REFUND_STATUS"}
+{"id": "validation-CANCEL_ORDER-021", "text": "Hi, I don't want to receive any of the products in DC900212; stop the order.", "label": "CANCEL_ORDER"}
+{"id": "validation-REFUND_REQUEST-020", "text": "Hi, Can you open a new refund case for DC900090? Please.", "label": "REFUND_REQUEST"}
+{"id": "validation-RETURN_ORDER-021", "text": "Could someone help? How do I send the entire order back in one return? Can you help with that?", "label": "RETURN_ORDER"}
+{"id": "validation-CANCEL_ITEM-021", "text": "I need some help. Could you revise DC900164 so it contains everything except the wireless mouse? What are my options?", "label": "CANCEL_ITEM"}
+{"id": "validation-CANCEL_ORDER-022", "text": "I need some help. Please void DC900114 in full while it is still waiting to ship.", "label": "CANCEL_ORDER"}
+{"id": "validation-RETURN_POLICY-018", "text": "What is your standard return window for online purchases? I need to sort this out today.", "label": "RETURN_POLICY"}
+{"id": "validation-EXCHANGE_ITEM-017", "text": "Quick question: Please help me exchange the backpack from DC900141 for a different option. Thanks.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-PAYMENT_ISSUE-020", "text": "Could someone help? I tried paying for DC900049, but the transaction keeps getting declined. I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-EXCHANGE_ITEM-018", "text": "Hi, Is it possible to send back the watch strap and receive the same product in EU 41? What are my options?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-CANCEL_ITEM-022", "text": "Could someone help? My purchase has several products. Cancel the water bottle only, please. Can you help with that?", "label": "CANCEL_ITEM"}
+{"id": "validation-SHIPPING_POLICY-019", "text": "Hi, Which parts of the UAE are covered by your shipping service? I need to sort this out today.", "label": "SHIPPING_POLICY"}
+{"id": "validation-EXCHANGE_ITEM-019", "text": "I need some help. The headphones arrived in the wrong size. Can I swap it for small?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-020", "text": "Could someone help? Can I edit the address for an order that has already been placed? Mine is DC900105. Thanks.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-RETURN_ITEM-019", "text": "Quick question: How do I send only the running shoes back from DC900052?", "label": "RETURN_ITEM"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-021", "text": "Could someone help? I need to reroute DC900199 to a new delivery address. I need to sort this out today.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-SHIPPING_POLICY-020", "text": "Could someone help? Which parts of the UAE are covered by your shipping service? Can you help with that?", "label": "SHIPPING_POLICY"}
+{"id": "validation-REFUND_STATUS-022", "text": "Quick question: I am not asking for a new refund; I want an update on the one already submitted. Please.", "label": "REFUND_STATUS"}
+{"id": "validation-RETURN_POLICY-019", "text": "I need some help. Are return shipping charges deducted from the refund? What are my options?", "label": "RETURN_POLICY"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-022", "text": "Hi, I typed the delivery location incorrectly for DC900190. What can I do to fix it? What are my options?", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-EXCHANGE_ITEM-020", "text": "Regarding a recent purchase, The headphones arrived in the wrong size. Can I swap it for small? Please.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_REQUEST-021", "text": "Hi, Start a refund for the water bottle; this is a new request. I need to sort this out today.", "label": "REFUND_REQUEST"}
+{"id": "validation-SHIPPING_POLICY-021", "text": "What order value qualifies for free delivery? Please.", "label": "SHIPPING_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-021", "text": "Hi, The checkout page says payment pending and never finishes. Please.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-RETURN_POLICY-020", "text": "Quick question: Are return shipping charges deducted from the refund? Please.", "label": "RETURN_POLICY"}
+{"id": "validation-RETURN_POLICY-021", "text": "Hi, Do returns have to be unopened and in the original box?", "label": "RETURN_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-022", "text": "Quick question: I see the same purchase charged twice on my statement.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-RETURN_ITEM-020", "text": "Hi, I need a return label for a single product, the desk lamp, not the full order. I need to sort this out today.", "label": "RETURN_ITEM"}
+{"id": "validation-REFUND_STATUS-023", "text": "Quick question: The refund case for DC900202 is open. Has it been completed yet?", "label": "REFUND_STATUS"}
+{"id": "validation-EXCHANGE_ITEM-021", "text": "Can the blender from DC900078 be exchanged for a replacement unit?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-TRACK_ORDER-019", "text": "I need some help. The expected delivery date passed. Please check the progress of DC900175. Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-TRACK_ORDER-020", "text": "Hi, I received a dispatch message for DC900201; when should it reach me? Can you help with that?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_ITEM-021", "text": "Can a courier collect just the tablet cover from my multi-item order? Can you help with that?", "label": "RETURN_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-022", "text": "Regarding a recent purchase, Can I trade my jacket for another one rather than get my money back?", "label": "EXCHANGE_ITEM"}
+{"id": "validation-CANCEL_ITEM-023", "text": "Could someone help? Can just the jacket be dropped from DC900038 without cancelling everything else? Please.", "label": "CANCEL_ITEM"}
+{"id": "validation-TRACK_ORDER-021", "text": "Could someone help? My courier hasn't arrived. Is the package out for delivery?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_ORDER-022", "text": "Regarding a recent purchase, I want to send back every item that arrived in DC900037. Thanks.", "label": "RETURN_ORDER"}
+{"id": "validation-RETURN_ITEM-022", "text": "Regarding a recent purchase, I bought several things in DC900048, but only the headphones needs to go back. Please.", "label": "RETURN_ITEM"}
+{"id": "validation-EXCHANGE_ITEM-023", "text": "Hi, I need a like-for-like replacement for the water bottle rather than money back. I need to sort this out today.", "label": "EXCHANGE_ITEM"}
+{"id": "validation-REFUND_REQUEST-022", "text": "Regarding a recent purchase, No refund has been submitted so far. Please create one for DC900076. What are my options?", "label": "REFUND_REQUEST"}
+{"id": "validation-TRACK_ORDER-022", "text": "Regarding a recent purchase, My courier hasn't arrived. Is the package out for delivery? What are my options?", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_POLICY-022", "text": "I need some help. Do returns have to be unopened and in the original box? What are my options?", "label": "RETURN_POLICY"}
+{"id": "validation-PAYMENT_ISSUE-023", "text": "Could someone help? My card was charged, then the site reported an error. Did the order go through? I need to sort this out today.", "label": "PAYMENT_ISSUE"}
+{"id": "validation-SHIPPING_POLICY-022", "text": "Could someone help? Is there an express delivery option for online orders? Thanks.", "label": "SHIPPING_POLICY"}
+{"id": "validation-CHANGE_DELIVERY_ADDRESS-023", "text": "Hi, The parcel for DC900018 needs to go somewhere else. Can you update the destination? Please.", "label": "CHANGE_DELIVERY_ADDRESS"}
+{"id": "validation-TRACK_ORDER-023", "text": "Regarding a recent purchase, Please look up the latest tracking update for DC900143. I need to sort this out today.", "label": "TRACK_ORDER"}
+{"id": "validation-RETURN_ORDER-023", "text": "I need some help. I am returning the whole basket from DC900214; nothing will be kept. Please.", "label": "RETURN_ORDER"}
+{"id": "validation-SHIPPING_POLICY-023", "text": "Regarding a recent purchase, Can I choose same-day or next-day delivery at checkout? Thanks.", "label": "SHIPPING_POLICY"}
+{"id": "validation-RETURN_ITEM-023", "text": "Can I send back the coffee maker and keep everything else from the order? Can you help with that?", "label": "RETURN_ITEM"}
+{"id": "validation-REFUND_REQUEST-023", "text": "I haven't been approved for anything yet; I want to request a refund now. Can you help with that?", "label": "REFUND_REQUEST"}
+{"id": "validation-CANCEL_ORDER-023", "text": "Quick question: I submitted DC900130 unintentionally. Can all items be cancelled?", "label": "CANCEL_ORDER"}
+{"id": "validation-RETURN_POLICY-023", "text": "Hi, What is your standard return window for online purchases? Can you help with that?", "label": "RETURN_POLICY"}

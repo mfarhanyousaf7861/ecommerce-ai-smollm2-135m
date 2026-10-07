@@ -1,0 +1,4 @@
+{"question": "What is the minimum spend for free shipping?", "expected_id": "shipping-standard"}
+{"question": "How much is express delivery?", "expected_id": "shipping-express"}
+{"question": "How long is the return window?", "expected_id": "returns-standard"}
+{"question": "Is return collection free for a defective item?", "expected_id": "returns-fees"}
